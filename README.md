@@ -6,4 +6,4 @@
 
 #### HTML/CSS, JavaScript, Node.js, Material UI, React
 
-![reciperolodex.herokuapp.com](https://github.com/cfudala82/RecipeRolodex/blob/master/src/images/screenshot.png?raw=true "Screenshot")
+![reciperolodex.herokuapp.com](https://github.com/cfudala82/Contacts-App/blob/master/contactapp/screenshot.png?raw=true "Screenshot")
